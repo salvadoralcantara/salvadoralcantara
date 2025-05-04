@@ -1,6 +1,6 @@
 ## Soy Salvador Isaias Juárez Alcántara 👋
 
-¡Hola! Soy un estudiante de Ingeniería en Desarrollo de Software con interés en el desarrollo de aplicaciones mobiles y webs. Me gusta aprender sobre arquitectura de software, sistemas operativos y metodologías ágiles para construir soluciones tecnológicas que aporten valor.
+¡Hola! Soy un estudiante de Ingeniería en Desarrollo de Software con interés en el desarrollo de aplicaciones moviles y webs.
 
 ## 🚀 Tecnologías que uso
 
