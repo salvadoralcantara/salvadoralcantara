@@ -1,8 +1,18 @@
-## Soy Salvador Isaias Juárez Alcántara 👋
+## Soy Salvador Isaías Juárez Alcántara
 
-¡Hola! Soy un estudiante de Ingeniería en Desarrollo de Software con interés en el desarrollo de aplicaciones moviles y webs.
+Estudiante de **Ingeniería en Desarrollo de Software**, con enfoque en el desarrollo de **aplicaciones móviles y webs**.  
+Interesado en crear soluciones eficientes, aprender buenas prácticas de ingeniería y participar en proyectos reales que aporten valor. 🎓
 
-## 🚀 Tecnologías que uso
+## Tecnologías principales
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvadoralcantara&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Actualmente estoy
+- Fortaleciendo bases en **desarrollo móvil y backend**
+- Construyendo proyectos académicos y personales
+- Aprendiendo sobre **buenas prácticas, control de versiones y arquitectura**
+
+## 📫 Contacto
+- GitHub: [github.com/salvadoralcantara](https://github.com/salvadoralcantara)
+- Email: salvador.isaias.juarez.alcantara@gmail.com
 
