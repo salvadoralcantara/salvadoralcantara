@@ -13,5 +13,4 @@ Interesado en crear soluciones eficientes, aprender buenas prácticas de ingenie
 - Aprendiendo sobre **buenas prácticas, control de versiones y arquitectura**
 
 ## 📫 Contacto
-- GitHub: https://github.com/salvadoralcantara
 - Email: salvador.isaias.juarez.alcantara@gmail.com
